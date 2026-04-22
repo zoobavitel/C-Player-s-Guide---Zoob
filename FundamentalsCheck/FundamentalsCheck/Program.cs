@@ -82,3 +82,4 @@ Console.WriteLine($"{up}, {targetColumn}");
 Console.WriteLine($"{targetRow}, {right}");
 Console.WriteLine($"{down}, {targetColumn}");
 Console.Beep(1000, 500);
+Console.ReadLine();
