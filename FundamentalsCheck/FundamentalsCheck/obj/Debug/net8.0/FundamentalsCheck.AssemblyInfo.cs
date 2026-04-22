@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FundamentalsCheck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+961a03dde8ce56eaf9cb65fa0dfdddd286fc72f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faed9eb0c30840e20476666cdc2ad2c7e47646bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("FundamentalsCheck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FundamentalsCheck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
