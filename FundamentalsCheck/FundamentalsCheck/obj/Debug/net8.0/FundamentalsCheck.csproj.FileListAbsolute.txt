@@ -1,0 +1,15 @@
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\obj\Debug\net8.0\FundamentalsCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\obj\Debug\net8.0\FundamentalsCheck.AssemblyInfoInputs.cache
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\obj\Debug\net8.0\FundamentalsCheck.AssemblyInfo.cs
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\obj\Debug\net8.0\FundamentalsCheck.csproj.CoreCompileInputs.cache
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\obj\Debug\net8.0\FundamentalsCheck.sourcelink.json
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\bin\Debug\net8.0\FundamentalsCheck.exe
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\bin\Debug\net8.0\FundamentalsCheck.deps.json
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\bin\Debug\net8.0\FundamentalsCheck.runtimeconfig.json
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\bin\Debug\net8.0\FundamentalsCheck.dll
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\bin\Debug\net8.0\FundamentalsCheck.pdb
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\obj\Debug\net8.0\FundamentalsCheck.dll
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\obj\Debug\net8.0\refint\FundamentalsCheck.dll
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\obj\Debug\net8.0\FundamentalsCheck.pdb
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\obj\Debug\net8.0\FundamentalsCheck.genruntimeconfig.cache
+C:\Users\zbavitelc\git\C-Player-s-Guide---Zoob\FundamentalsCheck\FundamentalsCheck\obj\Debug\net8.0\ref\FundamentalsCheck.dll
